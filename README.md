@@ -1,5 +1,7 @@
 # Human-Action-Recog-VIBE
 
+VIBE : https://github.com/mkocabas/VIBE
+
 video -> VIBE -> mesh sequence -> each person's action classification
 
 ## Dataset
