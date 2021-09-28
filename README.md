@@ -6,8 +6,7 @@ video -> VIBE -> mesh sequence -> each person's action classification
 UCF11, UCF Sports Action
 https://www.crcv.ucf.edu/data/UCF101.php
 
-GT bboxes are changed for VIBE input.
-
+### GT bboxes are changed for VIBE input.
 
 
 Using UCF GT bbox (bad case)
@@ -43,4 +42,6 @@ https://user-images.githubusercontent.com/68524289/135082396-0aa1e45f-7a01-4e83-
 addtional youtube video
 
 ## Class
-stop / walk / run
+stop / walk / run (classes can be added..)
+
+stop class is trained by not only image sequence, but also single image.
