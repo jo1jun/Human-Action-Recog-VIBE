@@ -5,6 +5,11 @@ VIBE : https://github.com/mkocabas/VIBE
 video -> VIBE -> mesh sequence -> each person's action classification
 
 ## Dataset
+
+some dataset have GT bboxes, the others have no GT boxes.
+If GT bboxes exists, Use it.
+Otherwise, Use estimated bbox by yolo-v3
+
 UCF11, UCF Sports Action
 https://www.crcv.ucf.edu/data/UCF101.php
 
