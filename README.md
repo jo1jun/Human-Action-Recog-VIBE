@@ -1,4 +1,4 @@
-# Human-Action-Recog-VIBE
+# Human-Mesh-Action-Recognition(HMAR)
 
 VIBE : https://github.com/mkocabas/VIBE
 
