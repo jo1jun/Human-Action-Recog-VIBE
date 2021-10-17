@@ -6,7 +6,7 @@ video -> image sequences -> VIBE -> SMPL Params sequence -> MLP -> each person's
 
 (If SMPL Params feedforard to SMPL, Human mesh is generated)
 
-(MLP can be changed another technics)
+(MLP can be changed another technics(GRU, transformer, etc.))
 
 (image feature or 2d & 3d joints can be added as information before MLP)
 
