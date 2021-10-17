@@ -28,12 +28,12 @@ Using UCF GT bbox (bad case)
 https://user-images.githubusercontent.com/68524289/135082198-4b14430a-b920-4fa8-a305-4e65cfe7151d.mp4
 
 
-Changed UCF GT bbox (same middle, max(height, width)
+Changed UCF GT bbox (same middle, max(height, width))
 
 https://user-images.githubusercontent.com/68524289/135082220-54b2cbe4-db84-4032-aca9-89e4fa9fd4d3.mp4
 
 
-Yolo-v3 GT bbox (estimated)
+Yolo-v3 estimated bbox (estimated)
 
 https://user-images.githubusercontent.com/68524289/135082158-c3bf540d-c8c9-4e3b-b252-10420425fdac.mp4
 
@@ -48,10 +48,11 @@ Changed UCF GT bbox (same middle, max(height, width)
 https://user-images.githubusercontent.com/68524289/135082371-f58e133c-2fd4-4407-955d-ce29f221fae8.mp4
 
 
-Yolo-v3 GT bbox (estimated)
+Yolo-v3 estimated bbox (estimated)
 
 https://user-images.githubusercontent.com/68524289/135082396-0aa1e45f-7a01-4e83-994f-da2a935ad375.mp4
 
+So I use changed GT bbox and estimated Yolo-v3 bbox
 
 addtional youtube video
 
