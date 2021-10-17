@@ -10,6 +10,8 @@ video -> image sequences -> VIBE -> SMPL Params sequence -> MLP -> each person's
 
 (image feature or 2d & 3d joints can be added as information before MLP)
 
+Currently, Model is overfitted. So, I'm preparing val/test dataset and training model.
+
 ## Dataset
 
 some dataset have GT bboxes, the others have no GT boxes.
