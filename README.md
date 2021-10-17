@@ -15,8 +15,8 @@ Currently, Model is overfitted. So, I'm preparing val/test dataset and training 
 ## Dataset
 
 some dataset have GT bboxes, the others have no GT boxes.
-If GT bboxes exists, Use it.
-Otherwise, Use estimated bbox by yolo-v3
+If GT bboxes exists, I used it.
+Otherwise, I used estimated bbox by yolo-v3
 
 UCF11, UCF Sports Action
 https://www.crcv.ucf.edu/data/UCF101.php
@@ -56,7 +56,7 @@ Yolo-v3 estimated bbox (estimated)
 
 https://user-images.githubusercontent.com/68524289/135082396-0aa1e45f-7a01-4e83-994f-da2a935ad375.mp4
 
-So I use changed GT bbox and estimated Yolo-v3 bbox
+So I used changed GT bbox and estimated Yolo-v3 bbox
 
 addtional youtube video
 
