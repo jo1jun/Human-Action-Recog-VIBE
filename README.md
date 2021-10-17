@@ -2,7 +2,9 @@
 
 VIBE : https://github.com/mkocabas/VIBE
 
-video -> VIBE -> mesh sequence -> each person's action classification
+video -> image sequences -> VIBE -> SMPL Params sequence -> MLP -> each person's action estimation
+(MLP can be changed another technics)
+(image feature or 2d & 3d joints can be added as information before MLP)
 
 ## Dataset
 
@@ -12,6 +14,9 @@ Otherwise, Use estimated bbox by yolo-v3
 
 UCF11, UCF Sports Action
 https://www.crcv.ucf.edu/data/UCF101.php
+
+Recognition of human actions
+https://www.csc.kth.se/cvap/actions/
 
 ### GT bboxes are changed for VIBE input.
 
@@ -49,6 +54,4 @@ https://user-images.githubusercontent.com/68524289/135082396-0aa1e45f-7a01-4e83-
 addtional youtube video
 
 ## Class
-stop / walk / run (classes can be added..)
-
-stop class is trained by not only image sequence, but also single image.
+punch / walk / run (classes can be added..)
