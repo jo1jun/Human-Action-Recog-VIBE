@@ -3,7 +3,9 @@
 VIBE : https://github.com/mkocabas/VIBE
 
 video -> image sequences -> VIBE -> SMPL Params sequence -> MLP -> each person's action estimation
+
 (MLP can be changed another technics)
+
 (image feature or 2d & 3d joints can be added as information before MLP)
 
 ## Dataset
