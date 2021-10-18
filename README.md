@@ -2,11 +2,11 @@
 
 VIBE : https://github.com/mkocabas/VIBE
 
-video -> image sequences -> VIBE -> SMPL Params sequence -> MLP -> each person's action estimation
+video -> image sequences -> VIBE -> SMPL Params sequences -> MLP -> each person's action estimation
 
 (If SMPL Params feedforard to SMPL, Human mesh is generated)
 
-(MLP can be changed another technics(GRU, transformer, etc.))
+(MLP can be changed to another technics(GRU, transformer, etc.))
 
 (image feature or 2d & 3d joints can be added as information before MLP)
 
