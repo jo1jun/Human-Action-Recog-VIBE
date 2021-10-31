@@ -62,3 +62,6 @@ addtional youtube video
 
 ## Class
 punch / walk / run (classes can be added..)
+
+## Application
+This module can predict consumed Kcal by using action time, gender, SMPL Parms beta
