@@ -58,7 +58,7 @@ Tensorboard
 
 ## Action Assign Module
 
-Classifier estimate 32 action sequence. For assigning action per frame, I create sunoke action voting algorithm. 
+Classifier estimate 32 action sequence. For assigning action per frame, I create simple action voting algorithm. 
 
 ![image](https://user-images.githubusercontent.com/68524289/147471962-12349c1e-c6fa-4ec0-9e43-fb2e851dc69c.png)
 
