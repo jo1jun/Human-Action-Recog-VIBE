@@ -48,7 +48,7 @@ Tensorboard
 
 ## Vision Transformer architecture using pose sequence
 
-![image](https://user-images.githubusercontent.com/68524289/147470375-b9e64220-e2f4-4cee-986d-6014af8d3ce0.png)
+![image](https://user-images.githubusercontent.com/68524289/147471498-d7d5b323-b26a-4fe0-9884-dbc360b89a55.png)
 
 Hyperparameters
 
