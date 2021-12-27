@@ -36,6 +36,8 @@ VIBE can output pose&shape parameter (=SMPL parameter).
 
 ![image](https://user-images.githubusercontent.com/68524289/147469989-f7971b9c-e1f0-40d3-bf73-0911cf73755f.png)
 
+(reference : https://khanhha.github.io/posts/SMPL-model-introduction/)
+
 If SMPL parameter feedforward to SMPL, Human mesh is generated.
 
 ## MLP architecture using pose sequence
