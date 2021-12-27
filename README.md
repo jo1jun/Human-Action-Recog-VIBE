@@ -56,6 +56,12 @@ Hyperparameters
 
 Tensorboard
 
+## Action Assign Module
+
+Classifier estimate 32 action sequence. For assigning action per frame, I create sunoke action voting algorithm. 
+
+![image](https://user-images.githubusercontent.com/68524289/147471962-12349c1e-c6fa-4ec0-9e43-fb2e851dc69c.png)
+
 ## Fatness Module
 
 ![image](https://user-images.githubusercontent.com/68524289/147470440-d14a669a-ea90-4e36-8362-d0f1a4bdfe32.png)
