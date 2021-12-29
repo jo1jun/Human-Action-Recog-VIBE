@@ -3,9 +3,13 @@
 
 ## Result video
 
-https://user-images.githubusercontent.com/68524289/147467981-70d723c4-bacd-4023-87bc-2f2a0624a105.mp4
+https://user-images.githubusercontent.com/68524289/147677645-2b336b48-905f-4c72-b4e2-bbf6d4f5b785.mp4
 
-(The person in the video is me!)
+(The person in the sample video is me!)
+
+You can run the demo using sample.mp4 or your mixed action (run, punch, squat) video.
+
+Demo : https://colab.research.google.com/github/jo1jun/Human-Action-Recog-VIBE/blob/main/HMAR_Demo.ipynb
 
 ## Dataset
 
