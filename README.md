@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/68524289/147677645-2b336b48-905f-4c72-
 
 You can run the demo using sample.mp4 or your mixed action (run, punch, squat) video.
 
-Demo : https://colab.research.google.com/github/jo1jun/Human-Action-Recog-VIBE/blob/main/HMAR_Demo.ipynb
+https://colab.research.google.com/github/jo1jun/Human-Action-Recog-VIBE/blob/main/HMAR_Demo.ipynb
 
 ## Dataset
 
