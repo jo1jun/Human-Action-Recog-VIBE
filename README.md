@@ -21,6 +21,8 @@ https://www.csc.kth.se/cvap/actions/
 
 3. Youtube Videos
 
+Train / val / test : 50 / 10 / 10 videos
+
 ## Class
 Run / Punch / Squat
 
@@ -44,17 +46,21 @@ If SMPL parameter feedforward to SMPL, Human mesh is generated.
 
 ![image](https://user-images.githubusercontent.com/68524289/147470242-38daf7d9-cd6e-490f-a545-969f6f3e8338.png)
 
-Hyperparameters
-
 Tensorboard
+
+
+
+I choosed best acc model in val dataset.
 
 ## Vision Transformer architecture using pose sequence
 
 ![image](https://user-images.githubusercontent.com/68524289/147471498-d7d5b323-b26a-4fe0-9884-dbc360b89a55.png)
 
-Hyperparameters
-
 Tensorboard
+
+https://tensorboard.dev/experiment/SgY0yhlDS2W4q0YMWlWxew/
+
+I choosed best acc model in val dataset.
 
 ## Action Assign Module
 
