@@ -62,6 +62,8 @@ https://tensorboard.dev/experiment/SgY0yhlDS2W4q0YMWlWxew/
 
 I choosed best acc model in val dataset.
 
+Test Accuracy : 96.53%
+
 ## Action Assign Module
 
 Classifier estimate 32 action sequence. For assigning action per frame, I create simple action voting algorithm. 
