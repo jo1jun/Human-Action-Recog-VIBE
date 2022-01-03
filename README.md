@@ -50,17 +50,19 @@ If SMPL parameter feedforward to SMPL, Human mesh is generated.
 
 ![image](https://user-images.githubusercontent.com/68524289/147470242-38daf7d9-cd6e-490f-a545-969f6f3e8338.png)
 
-Tensorboard
+### Tensorboard
 
-
+https://tensorboard.dev/experiment/trvB6A5lRjqw6VwoaOW2qw/
 
 I choosed best acc model in val dataset.
+
+Test Accuracy : 93.87%
 
 ## Vision Transformer architecture using pose sequence
 
 ![image](https://user-images.githubusercontent.com/68524289/147471498-d7d5b323-b26a-4fe0-9884-dbc360b89a55.png)
 
-Tensorboard
+### Tensorboard
 
 https://tensorboard.dev/experiment/SgY0yhlDS2W4q0YMWlWxew/
 
